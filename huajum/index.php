@@ -17,7 +17,7 @@
             
 </style>  
     <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="#">
             <img src="huajum2.png" alt="Logo" style="width:40px;"> HUAJUM
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -26,16 +26,13 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact US</a>
+                <a class="nav-link" href="#">Phetcharat</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="phetcharat suk-ubon.html">Phetcharat</a>
+                <a class="nav-link" href="#">Sutatip</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="sutatip yamklin.html">Sutatip</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="chonticha yasri.html">Chonticha</a>
+                <a class="nav-link" href="#">Chonticha</a>
             </li>    
         </ul>
     </div>  
@@ -47,11 +44,11 @@
         <!-- <center><img src="huajum2.png" width="490" height="400"> -->
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
          <b> <p style= "font-size: 50px; color: azure;"> WEB <span style="color:rgb(130, 166, 231);">TECHNOLOGY</span></p></b>
-            <a href="contact.html" type="button" class="btn btn-dark">Contact Us</a>
+            <a href="#" type="button" class="btn btn-dark">Contact Us</a>
             
          
             <audio autoplay id="bgsound">
-             <source src="สวัสดีปีใหม่.mp3"
+             <source src="indexmusic.mp3"
              type="audio/mp4">
             </audio> 
          
