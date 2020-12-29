@@ -14,6 +14,12 @@
     body{ margin: 0; padding: 0;background: url(bg5.jpg) no-repeat; background-size: cover;}
     
     .btn-dark{background-color:rgba(0, 0, 0, 0.377);color:white; }
+
+    .Pcenter p{
+        text-align: center;
+        padding-top: 300px;
+    }
+
             
 </style>  
     <nav class="navbar navbar-expand-md bg-dark navbar-dark">
@@ -42,21 +48,19 @@
     </nav>
 
 
+}
+
+    <div class="Pcenter">
         <div class="container-fluid" >
-        <center>
-        <!-- <center><img src="huajum2.png" width="490" height="400"> -->
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
          <b> <p style= "font-size: 50px; color: azure;"> WEB <span style="color:rgb(130, 166, 231);">TECHNOLOGY</span></p></b>
-            <a href="contact.html" type="button" class="btn btn-dark">Contact Us</a>
+            <center><a href="contact.html" type="button" class="btn btn-dark">Contact Us</a><center>
             
-         
             <audio autoplay id="bgsound">
              <source src="indexmusic.mp3"
              type="audio/mp4">
             </audio> 
-         
-        </center>
 
+        </div>
     </div>
     
 
